@@ -1,0 +1,192 @@
+.header{
+    background-image: url(../images/party.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+  
+   
+    
+}
+
+.overlay
+{   
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background-color:  rgba(184, 21, 21, 0.444);
+    text-align: center;
+    padding-top: 350px;
+    color:antiquewhite;
+
+}
+
+.overlay h1 {
+    font-size: 55px;
+    font-family: monospace;
+    
+}
+
+.fa-window-close{
+    display: flex;
+    cursor: pointer;
+    padding: 5px 5px;
+    right: 0%;
+    top: 0px;
+}
+
+.fa-window-close{
+    display: flex;
+    cursor: pointer;
+    padding: 5px 5px;
+    right: 0%;
+    top: 0px;
+}
+
+.navbar{ 
+    width: 10%;
+    height: 100vh;
+    background-color: rgb(180, 4, 4);
+    color:antiquewhite;
+}
+
+
+.as {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+}
+
+.as a {
+    color: white;
+    margin-top: 100px;
+}
+
+
+.link {
+    position: absolute;
+    left: 160px;
+    color:antiquewhite;
+    padding-top: 100px;
+    display: flex;
+    cursor: pointer;
+    font-family: cursive;
+}  
+
+
+.fa-bars{
+margin-top: 10px;
+padding-right: 10px;
+}
+
+
+
+/* //////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+.text{
+
+    padding-top: 100px;
+    display: block;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
+
+.text h2{
+    padding: 5px;
+    background-color: rgb(180, 4, 4);
+    color: white;
+    cursor: pointer;
+}
+
+.text p{
+    color: rgb(105, 0, 0);
+}
+
+
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.both {
+    background-color: #d62e3464;
+    padding-top: 50px;
+    padding-bottom: 50px;
+     line-height: 25px; 
+    margin-top: 70px;
+    
+}
+
+
+.form{
+    margin-top: 110px;
+    margin-left: 30px;
+}
+
+.textArea{
+   margin-top: 15px;
+}
+
+#Rchar {
+    font-size: 20px;
+    color: #D62E33;
+}
+
+
+.one .ico {
+    font-size: 25px;
+    margin-top: 20px;}
+
+
+
+
+
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////// */
+#counter {
+    margin-top: 105px;
+    position: relative;
+}
+.container{
+    position: relative;
+    background-image: url(../images/invitation-2508607__340.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    padding: 100px 0px;
+    width: 100%;
+}
+
+.timing {
+    margin-left:60px;
+    position: absolute;
+    padding: 50px;
+    border: 1px solid #FFF;
+    background-color: #d62e345f;
+}
+
+
+.overlayy{
+    width: 100%;
+    background-color: #d62e345f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
